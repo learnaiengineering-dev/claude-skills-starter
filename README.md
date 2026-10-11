@@ -12,6 +12,7 @@ A skill is a folder with a `SKILL.md`: YAML frontmatter (`name`, `description`) 
 | [`rag-debugger`](skills/rag-debugger/SKILL.md) | A RAG app gives wrong or ungrounded answers and you need a diagnosis order |
 | [`eval-designer`](skills/eval-designer/SKILL.md) | You need an eval set and scoring plan for an LLM feature |
 | [`agent-spec-writer`](skills/agent-spec-writer/SKILL.md) | You're scoping an agent: tools, guardrails, failure modes |
+| [`retrieval-regression-check`](skills/retrieval-regression-check/SKILL.md) | You changed a retriever, chunker or embedding model and need to know if any query got worse (uses [retrieval-regression-gate](https://github.com/learnaiengineering-dev/retrieval-regression-gate)) |
 
 ## Install
 

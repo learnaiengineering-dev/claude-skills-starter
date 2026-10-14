@@ -4,6 +4,8 @@ A free pack of **reusable AI skills** (`SKILL.md` files) for Claude Code and oth
 
 A skill is a folder with a `SKILL.md`: YAML frontmatter (`name`, `description`) and instructions the agent loads when the task matches the description. Good descriptions are what make a skill trigger at the right time.
 
+> Using Codex, Cursor or GitHub Copilot too? See [ai-skills](https://github.com/learnaiengineering-dev/ai-skills): a multi-tool pack with install scripts for every tool.
+
 ## Skills included
 
 | Skill | Use it when |
